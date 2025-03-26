@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+    background-color: gold;
+}
+.d-flex {
+    display: flex;
+}
+.ml-auto {
+    margin: auto;
+}
+#layer1 {
+    display: none;
+    position: absolute;
+    top: 100px;
+    left: 20%;
+}
